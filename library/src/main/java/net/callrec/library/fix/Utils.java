@@ -3,6 +3,7 @@ package net.callrec.library.fix;
 import android.content.Context;
 import android.os.Environment;
 import android.text.TextUtils;
+import android.util.Log;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
@@ -34,6 +35,7 @@ public class Utils {
     public static String makeFileName(int typeCall, String callId) {
         String nameSubscr = typeCall==ProcessingBase.TypeCall.INSTANCE.getINC()?"BKIn":"BKOut";
 
+        Log.e("nameSubscr",nameSubscr);
         return String.format("%s_%s", nameSubscr, callId);
     }
 }

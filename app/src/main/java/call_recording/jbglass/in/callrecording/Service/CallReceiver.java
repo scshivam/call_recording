@@ -59,7 +59,7 @@ public class CallReceiver extends PhoneCallReceiver {
             if (ActivityCompat.checkSelfPermission(ctx, Manifest.permission.WRITE_CALL_LOG) != PackageManager.PERMISSION_GRANTED) {
                 return;
             }
-            startRecordingService(ctx,DbHandler.getString(ctx, "call_id", ""),ProcessingBase.TypeCall.INSTANCE.getINC());
+            startRecordingService(ctx,DbHandler.getString(ctx, "call_id", ""),ProcessingBase.TypeCall.INSTANCE.getOUT());
         }
     }
 

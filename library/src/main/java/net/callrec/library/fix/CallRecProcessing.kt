@@ -74,7 +74,7 @@ class CallRecProcessing(val service: Service) : ProcessingBase(service.applicati
     }
 
     override fun onStartRecord(){
-        Toast.makeText(service.applicationContext,"Recording Started",Toast.LENGTH_SHORT).show();
+        //Toast.makeText(service.applicationContext,"Recording Started",Toast.LENGTH_SHORT).show();
     }
 
     override fun onStopRecord(){
@@ -91,6 +91,6 @@ class CallRecProcessing(val service: Service) : ProcessingBase(service.applicati
         val newUri = contentResolver.insert(base, values)
 
         context.sendBroadcast(Intent(Intent.ACTION_MEDIA_SCANNER_SCAN_FILE, newUri))
-        Toast.makeText(service.applicationContext,"Recording Stopped",Toast.LENGTH_SHORT).show();
+        //Toast.makeText(service.applicationContext,"Recording Stopped",Toast.LENGTH_SHORT).show();
     }
 }

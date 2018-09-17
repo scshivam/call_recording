@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/home/satyam/AndroidStudioProjects/call_recording/library/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/home/satyam/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/satyam/AndroidStudioProjects/call_recording/library/.externalNativeBuild/cmake/debug/armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "callrecfix-Debug-armeabi-v7a": {
+      "artifactName": "callrecfix",
+      "buildCommand": "/home/satyam/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/satyam/AndroidStudioProjects/call_recording/library/.externalNativeBuild/cmake/debug/armeabi-v7a --target callrecfix",
+      "abi": "armeabi-v7a",
+      "output": "/home/satyam/AndroidStudioProjects/call_recording/library/build/intermediates/cmake/debug/obj/armeabi-v7a/libcallrecfix.so"
+    }
+  }
+}

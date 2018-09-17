@@ -1,0 +1,41 @@
+
+{
+	"buildFiles" : 
+	[
+		"/home/satyam/AndroidStudioProjects/call_recording/library/src/main/cpp/CMakeLists.txt"
+	],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"/home/satyam/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/satyam/AndroidStudioProjects/call_recording/library/.externalNativeBuild/cmake/release/armeabi-v7a --target clean"
+	],
+	"libraries" : 
+	{
+		"callrecfix-Release-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "callrecfix",
+			"buildCommand" : "/home/satyam/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/satyam/AndroidStudioProjects/call_recording/library/.externalNativeBuild/cmake/release/armeabi-v7a --target callrecfix",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=/home/satyam/Android/Sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64 --sysroot=/home/satyam/Android/Sdk/ndk-bundle/sysroot -Dcallrecfix_EXPORTS  -isystem /home/satyam/Android/Sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=16 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG  -fPIC      -c ",
+					"src" : "/home/satyam/AndroidStudioProjects/call_recording/library/src/main/cpp/callrecfix.c",
+					"workingDirectory" : "/home/satyam/AndroidStudioProjects/call_recording/library/.externalNativeBuild/cmake/release/armeabi-v7a"
+				}
+			],
+			"output" : "/home/satyam/AndroidStudioProjects/call_recording/library/build/intermediates/cmake/release/obj/armeabi-v7a/libcallrecfix.so",
+			"toolchain" : "6644281886640119763"
+		}
+	},
+	"toolchains" : 
+	{
+		"6644281886640119763" : 
+		{
+			"cCompilerExecutable" : "/home/satyam/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/home/satyam/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+		}
+	}
+}

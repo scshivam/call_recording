@@ -371,7 +371,6 @@ public class FeedbackActivity extends Activity {
             private Dialog loadingDialog;
             String responseString="";
 
-
             @Override
             protected void onPreExecute() {
                 super.onPreExecute();
@@ -383,6 +382,8 @@ public class FeedbackActivity extends Activity {
 
             @Override
             protected String doInBackground(String... params) {
+
+                Log.e("comes","comes");
 
 //                String mob=params[2];
                 InputStream is = null;
@@ -423,10 +424,16 @@ public class FeedbackActivity extends Activity {
                         responseString = "Error occurred! Http Status Code: "
                                 + statusCode;
                     }
+                    Log.e("comes","no error");
+
 
                 } catch (ClientProtocolException e) {
                     responseString = e.toString();
+                    Log.e("comes","error1");
+
                 } catch (IOException e) {
+                    Log.e("comes","error2");
+
                     responseString = e.toString();
                 }
 
@@ -439,6 +446,8 @@ public class FeedbackActivity extends Activity {
 
                 // progressDialog.dismiss();
                 Log.e("TAG", "Response from server: " + result);
+
+                Log.e("comes","comes123");
 
                 super.onPostExecute(result);
                 String s = result.trim();
@@ -478,6 +487,8 @@ public class FeedbackActivity extends Activity {
 
                 } catch (JSONException e) {
                     e.printStackTrace();
+                    Log.e("comes","cerr");
+
                 }
 
 
@@ -510,15 +521,17 @@ public class FeedbackActivity extends Activity {
                 progressDialog.dismiss();
                 if(response.code()==200){
                     File dir=null;
-                    if (!Build.BRAND.equalsIgnoreCase("xiaomi")) {
-                        dir = Environment.getExternalStorageDirectory();
+//                    if (!Build.BRAND.equalsIgnoreCase("xiaomi")) {
+//                        dir = Environment.getExternalStorageDirectory();
+//
+//                    }
+//                    else{
+//                        String path = Environment.getExternalStorageDirectory().toString() + "/MIUI/sound_recorder/call_rec";
+//                        dir = new File(path);
+//
+//                    }
 
-                    }
-                    else{
-                        String path = Environment.getExternalStorageDirectory().toString() + "/MIUI/sound_recorder/call_rec";
-                        dir = new File(path);
-
-                    }
+                    dir = Environment.getExternalStorageDirectory();
                     File[] files = dir.listFiles();
 
 
@@ -530,8 +543,8 @@ public class FeedbackActivity extends Activity {
 
                             String call_id2=file.getName().split("_")[1];
                             Log.e("call_od",call_id2);
-                            Log.e("call_od2",String.valueOf(call_id2.split(".amr")));
-                            String call_id=call_id2.split(".amr")[0];
+                            Log.e("call_od2",String.valueOf(call_id2.split(".wav")));
+                            String call_id=call_id2.split(".wav")[0];
 
 
 
@@ -551,7 +564,7 @@ public class FeedbackActivity extends Activity {
 
                             progressDialog.show();
                             String cal_nu2=file.getName().split("_")[1];
-                            String num=cal_nu2.split(".amr")[0];
+                            String num=cal_nu2.split(".wav")[0];
                             Log.e("num",num);
 
                             IncomingBody incomingBody=new IncomingBody(num,"I");

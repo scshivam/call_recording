@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/home/satyam/AndroidStudioProjects/call_recording/library/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/home/satyam/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/satyam/AndroidStudioProjects/call_recording/library/.externalNativeBuild/cmake/release/x86_64 --target clean"
+  ],
+  "libraries": {
+    "callrecfix-Release-x86_64": {
+      "artifactName": "callrecfix",
+      "buildCommand": "/home/satyam/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/satyam/AndroidStudioProjects/call_recording/library/.externalNativeBuild/cmake/release/x86_64 --target callrecfix",
+      "abi": "x86_64",
+      "output": "/home/satyam/AndroidStudioProjects/call_recording/library/build/intermediates/cmake/release/obj/x86_64/libcallrecfix.so"
+    }
+  }
+}

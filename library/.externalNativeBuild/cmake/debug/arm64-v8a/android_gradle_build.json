@@ -1,0 +1,41 @@
+
+{
+	"buildFiles" : 
+	[
+		"/home/satyam/AndroidStudioProjects/call_recording/library/src/main/cpp/CMakeLists.txt"
+	],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"/home/satyam/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/satyam/AndroidStudioProjects/call_recording/library/.externalNativeBuild/cmake/debug/arm64-v8a --target clean"
+	],
+	"libraries" : 
+	{
+		"callrecfix-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "callrecfix",
+			"buildCommand" : "/home/satyam/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/satyam/AndroidStudioProjects/call_recording/library/.externalNativeBuild/cmake/debug/arm64-v8a --target callrecfix",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=/home/satyam/Android/Sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/linux-x86_64 --sysroot=/home/satyam/Android/Sdk/ndk-bundle/sysroot -Dcallrecfix_EXPORTS  -isystem /home/satyam/Android/Sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "/home/satyam/AndroidStudioProjects/call_recording/library/src/main/cpp/callrecfix.c",
+					"workingDirectory" : "/home/satyam/AndroidStudioProjects/call_recording/library/.externalNativeBuild/cmake/debug/arm64-v8a"
+				}
+			],
+			"output" : "/home/satyam/AndroidStudioProjects/call_recording/library/build/intermediates/cmake/debug/obj/arm64-v8a/libcallrecfix.so",
+			"toolchain" : "6644281886640119763"
+		}
+	},
+	"toolchains" : 
+	{
+		"6644281886640119763" : 
+		{
+			"cCompilerExecutable" : "/home/satyam/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/home/satyam/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+		}
+	}
+}
