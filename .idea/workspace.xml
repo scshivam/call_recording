@@ -5,269 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="308d6043-f358-4927-b778-995853deef24" name="Default" comment="upload fix">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_android_28.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_common_1_1_1_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_asynclayoutinflater_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_cardview_v7_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_collections_28_0_0_rc02_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_coordinatorlayout_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_cursoradapter_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_customview_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_design_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_documentfile_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_drawerlayout_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_interpolator_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_loader_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_localbroadcastmanager_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_print_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_recyclerview_v7_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_slidingpanelayout_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_28_0_0_rc02_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_media_compat_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_swiperefreshlayout_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_2_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_2_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_runner_1_0_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_testing_support_lib_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_transition_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_versionedparcelable_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_viewpager_28_0_0_rc02.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_annotation_javax_annotation_api_1_2_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_dep_4_10_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_http_legacy_android_28.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_1_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_1_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_1_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_1_51_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jre7_1_1_51_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/arm64-v8a/.ninja_deps" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/arm64-v8a/.ninja_log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeCache.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/3.6.0-rc2/CMakeCCompiler.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/3.6.0-rc2/CMakeCXXCompiler.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_C.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_CXX.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/3.6.0-rc2/CMakeSystem.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/CMakeOutput.log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/TargetDirectories.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/callrecfix.dir/callrecfix.c.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/cmake.check_cache" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.c" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.cxx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/arm64-v8a/android_gradle_build.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/arm64-v8a/android_gradle_build_mini.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/arm64-v8a/build.ninja" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/arm64-v8a/cmake_build_command.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/arm64-v8a/cmake_build_output.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/arm64-v8a/cmake_install.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/arm64-v8a/rules.ninja" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/armeabi-v7a/.ninja_deps" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/armeabi-v7a/.ninja_log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeCache.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/3.6.0-rc2/CMakeCCompiler.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/3.6.0-rc2/CMakeCXXCompiler.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_C.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_CXX.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/3.6.0-rc2/CMakeSystem.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/CMakeOutput.log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/TargetDirectories.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/callrecfix.dir/callrecfix.c.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/cmake.check_cache" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/feature_tests.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/feature_tests.c" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/feature_tests.cxx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/armeabi-v7a/android_gradle_build.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/armeabi-v7a/android_gradle_build_mini.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/armeabi-v7a/build.ninja" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/armeabi-v7a/cmake_build_command.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/armeabi-v7a/cmake_build_output.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/armeabi-v7a/cmake_install.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/armeabi-v7a/rules.ninja" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86/.ninja_deps" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86/.ninja_log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86/CMakeCache.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86/CMakeFiles/3.6.0-rc2/CMakeCCompiler.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86/CMakeFiles/3.6.0-rc2/CMakeCXXCompiler.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_C.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_CXX.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86/CMakeFiles/3.6.0-rc2/CMakeSystem.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86/CMakeFiles/CMakeOutput.log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86/CMakeFiles/TargetDirectories.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86/CMakeFiles/callrecfix.dir/callrecfix.c.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86/CMakeFiles/cmake.check_cache" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86/CMakeFiles/feature_tests.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86/CMakeFiles/feature_tests.c" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86/CMakeFiles/feature_tests.cxx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86/android_gradle_build.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86/android_gradle_build_mini.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86/build.ninja" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86/cmake_build_command.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86/cmake_build_output.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86/cmake_install.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86/rules.ninja" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86_64/.ninja_deps" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86_64/.ninja_log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86_64/CMakeCache.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/3.6.0-rc2/CMakeCCompiler.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/3.6.0-rc2/CMakeCXXCompiler.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_C.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_CXX.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/3.6.0-rc2/CMakeSystem.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/CMakeOutput.log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/TargetDirectories.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/callrecfix.dir/callrecfix.c.o" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/cmake.check_cache" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/feature_tests.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/feature_tests.c" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/feature_tests.cxx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86_64/android_gradle_build.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86_64/android_gradle_build_mini.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86_64/build.ninja" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86_64/cmake_build_command.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86_64/cmake_build_output.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86_64/cmake_install.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/debug/x86_64/rules.ninja" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/arm64-v8a/CMakeCache.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/3.6.0-rc2/CMakeCCompiler.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/3.6.0-rc2/CMakeCXXCompiler.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_C.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_CXX.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/3.6.0-rc2/CMakeSystem.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/CMakeOutput.log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/TargetDirectories.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/cmake.check_cache" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/feature_tests.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/feature_tests.c" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/feature_tests.cxx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/arm64-v8a/android_gradle_build.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/arm64-v8a/android_gradle_build_mini.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/arm64-v8a/build.ninja" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/arm64-v8a/cmake_build_command.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/arm64-v8a/cmake_build_output.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/arm64-v8a/cmake_install.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/arm64-v8a/rules.ninja" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeCache.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/3.6.0-rc2/CMakeCCompiler.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/3.6.0-rc2/CMakeCXXCompiler.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_C.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_CXX.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/3.6.0-rc2/CMakeSystem.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/CMakeOutput.log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/TargetDirectories.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/cmake.check_cache" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/feature_tests.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/feature_tests.c" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/feature_tests.cxx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/armeabi-v7a/android_gradle_build.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/armeabi-v7a/android_gradle_build_mini.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/armeabi-v7a/build.ninja" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/armeabi-v7a/cmake_build_command.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/armeabi-v7a/cmake_build_output.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/armeabi-v7a/cmake_install.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/armeabi-v7a/rules.ninja" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/x86/CMakeCache.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/x86/CMakeFiles/3.6.0-rc2/CMakeCCompiler.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/x86/CMakeFiles/3.6.0-rc2/CMakeCXXCompiler.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/x86/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_C.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/x86/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_CXX.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/x86/CMakeFiles/3.6.0-rc2/CMakeSystem.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/x86/CMakeFiles/CMakeOutput.log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/x86/CMakeFiles/TargetDirectories.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/x86/CMakeFiles/cmake.check_cache" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/x86/CMakeFiles/feature_tests.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/x86/CMakeFiles/feature_tests.c" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/x86/CMakeFiles/feature_tests.cxx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/x86/android_gradle_build.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/x86/android_gradle_build_mini.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/x86/build.ninja" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/x86/cmake_build_command.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/x86/cmake_build_output.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/x86/cmake_install.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/x86/rules.ninja" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/x86_64/CMakeCache.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/3.6.0-rc2/CMakeCCompiler.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/3.6.0-rc2/CMakeCXXCompiler.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_C.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_CXX.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/3.6.0-rc2/CMakeSystem.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/CMakeOutput.log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/TargetDirectories.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/cmake.check_cache" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/feature_tests.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/feature_tests.c" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/feature_tests.cxx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/x86_64/android_gradle_build.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/x86_64/android_gradle_build_mini.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/x86_64/build.ninja" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/x86_64/cmake_build_command.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/x86_64/cmake_build_output.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/x86_64/cmake_install.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library/.externalNativeBuild/cmake/release/x86_64/rules.ninja" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library1/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library1/build.gradle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library1/library1.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library1/proguard-rules.pro" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library1/src/androidTest/java/techgig_tollme/satyamg025/com/library1/ExampleInstrumentedTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library1/src/main/AndroidManifest.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library1/src/main/res/values/strings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/library1/src/test/java/techgig_tollme/satyamg025/com/library1/ExampleUnitTest.java" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_common_1_1_0_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_runtime_1_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_0_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_27_1_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_27_1_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_cardview_v7_27_1_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_design_27_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_monitor_1_0_2.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_recyclerview_v7_27_1_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_27_1_1_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_27_1_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_27_1_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_27_1_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_27_1_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_media_compat_27_1_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_27_1_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_27_1_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_transition_27_1_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_http_legacy_android_27.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_android_28.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_monitor_1_0_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_runner_1_0_2.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/call_recording/jbglass/in/callrecording/Activity/FeedbackActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/call_recording/jbglass/in/callrecording/Activity/FeedbackActivity.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/call_recording/jbglass/in/callrecording/Service/CallReceiver.java" afterPath="$PROJECT_DIR$/app/src/main/java/call_recording/jbglass/in/callrecording/Service/CallReceiver.java" />
       <change beforePath="$PROJECT_DIR$/library/library.iml" afterPath="$PROJECT_DIR$/library/library.iml" />
-      <change beforePath="$PROJECT_DIR$/library/src/main/java/net/callrec/library/fix/CallRecProcessing.kt" afterPath="$PROJECT_DIR$/library/src/main/java/net/callrec/library/fix/CallRecProcessing.kt" />
-      <change beforePath="$PROJECT_DIR$/library/src/main/java/net/callrec/library/fix/Utils.java" afterPath="$PROJECT_DIR$/library/src/main/java/net/callrec/library/fix/Utils.java" />
-      <change beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
       <change beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
     </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
@@ -292,16 +44,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LibLoader.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/library/src/main/java/net/callrec/library/fix/LibLoader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CallRecProcessing.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/library/src/main/java/net/callrec/library/fix/CallRecProcessing.kt">
           <provider selected="true" editor-type-id="text-editor">
@@ -322,31 +64,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IProcessing.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/library/src/main/java/net/callrec/library/fix/IProcessing.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Utils.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/library/src/main/java/net/callrec/library/fix/Utils.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CallReceiver.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CallReceiver.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/call_recording/jbglass/in/callrecording/Service/CallReceiver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="49" column="36" lean-forward="true" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
+            <state relative-caret-position="288">
+              <caret line="52" column="40" lean-forward="false" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="32" column="29" lean-forward="false" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.gradle" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/settings.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -439,10 +191,6 @@
               <ExternalProjectPojo>
                 <option name="name" value=":library" />
                 <option name="path" value="$PROJECT_DIR$/library" />
-              </ExternalProjectPojo>
-              <ExternalProjectPojo>
-                <option name="name" value=":library1" />
-                <option name="path" value="$PROJECT_DIR$/library1" />
               </ExternalProjectPojo>
             </list>
           </value>
@@ -4475,6 +4223,11 @@
     <option name="externalProjectsViewState">
       <projects_view />
     </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -4484,6 +4237,7 @@
         <option value="$PROJECT_DIR$/library/src/main/java/net/callrec/library/fix/ProcessingBase.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/call_recording/jbglass/in/callrecording/Service/CallReceiver.java" />
         <option value="$PROJECT_DIR$/library/src/main/java/net/callrec/library/fix/Utils.java" />
+        <option value="$PROJECT_DIR$/settings.gradle" />
       </list>
     </option>
   </component>
@@ -4546,14 +4300,7 @@
             </path>
             <path>
               <item name="call_recording" type="1abcf292:AndroidViewProjectNode" />
-              <item name="library" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-            </path>
-            <path>
-              <item name="call_recording" type="1abcf292:AndroidViewProjectNode" />
-              <item name="library" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="fix" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
             </path>
           </expand>
           <select />
@@ -4731,6 +4478,14 @@
       <option name="presentableId" value="Default" />
       <updated>1535737770929</updated>
     </task>
+    <task id="LOCAL-00001" summary="upload fix">
+      <created>1537214986600</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1537214986600</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -4738,7 +4493,7 @@
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29773462" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29773462" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -4752,7 +4507,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24223107" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32686085" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32686085" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Fabric" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -4861,14 +4616,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2466">
           <caret line="142" column="41" lean-forward="false" selection-start-line="142" selection-start-column="41" selection-end-line="142" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="33" column="58" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -5051,15 +4798,31 @@
     <entry file="file://$PROJECT_DIR$/library/src/main/java/net/callrec/library/fix/Utils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/call_recording/jbglass/in/callrecording/Service/CallReceiver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="49" column="36" lean-forward="true" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
+        <state relative-caret-position="288">
+          <caret line="52" column="40" lean-forward="false" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="32" column="29" lean-forward="false" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
